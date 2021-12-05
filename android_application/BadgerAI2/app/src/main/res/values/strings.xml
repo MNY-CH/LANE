@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BadgerAI</string>
+
+    <string-array name = "LOG">
+        <item>"SYSTEM"</item>
+        <item>"BLUETOOTH"</item>
+        <item>"BLUETOOTH RECEIVE"</item>
+        <item>"MOVE"</item>
+    </string-array>
+</resources>
